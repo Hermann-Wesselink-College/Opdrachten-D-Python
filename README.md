@@ -4,4 +4,4 @@ Nadat je je opdracht hebt afgerond geef je het commando: [git add .]
 Hierna [git commit]
 Afgerond met [git push]
 
-Zorg in je code dat er helder is wanneer een nieuwe opdracht begint. Gebruik hiervoor commentaarregels.
+Zorg in je code dat er helder is wanneer een nieuwe opdracht begint. Gebruik hiervoor commentaarregels. Zie opdrachten uit paragraaf 5.7 als voorbeeld.
