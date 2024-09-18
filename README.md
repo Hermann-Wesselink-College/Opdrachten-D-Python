@@ -3,3 +3,5 @@ De opdrachten uit Fundament waarbij je moet programmeren maak je met Codespaces 
 Nadat je je opdracht hebt afgerond geef je het commando: [git add .]
 Hierna [git commit]
 Afgerond met [git push]
+
+Zorg in je code dat er helder is wanneer een nieuwe opdracht begint. Gebruik hiervoor commentaarregels.
